@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pandas
+spacy
+nltk
+pymupdf
+pyarrow
+sqlalchemy
+boto3
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
