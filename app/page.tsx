@@ -5,7 +5,7 @@ import { UploadCloud, ShieldCheck, Activity, FileText, AlertTriangle } from "luc
 import { PieChart, Pie, Cell, Tooltip, ResponsiveContainer } from "recharts";
 
 // ⚠️ IMPORTANT: Replace this with your Hugging Face Space URL later
-const API_URL = "https://huggingface.co/spaces/WORKWITHSHAFISK/Segmento-Sense/tree/main/backend"; 
+const API_URL = "https://huggingface.co/spaces/WORKWITHSHAFISK/Segmento-Sense"; 
 
 export default function Dashboard() {
   const [file, setFile] = useState<File | null>(null);
